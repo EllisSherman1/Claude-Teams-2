@@ -1,0 +1,25 @@
+{
+  "name": "claude-teams-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node tests/smoke.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EllisSherman1/Claude-Teams-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/EllisSherman1/Claude-Teams-2/issues"
+  },
+  "homepage": "https://github.com/EllisSherman1/Claude-Teams-2#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
